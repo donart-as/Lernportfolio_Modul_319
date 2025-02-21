@@ -7,20 +7,27 @@ Heute haben wir in der ersten Lektion Informationen über den Ablauf des Moduls 
 #### Aufgaben
 ##### Aufgabe SOL
 **Was ist ein Tandem?**
+
 Ein Tandem ist eine Gruppe.
+
 **Aus welchen Kompetenzen bildet sich die Handlungskompetenz?**
+
 Es besteht aus Fach-, Methoden-, Sozial-, Lern- und Selbstkompetenz.
 
 **Was ist der Unterschied zwischen einem Lern- und einem Nachweis-Portfolio?**
+
 Ein Lern-Portfolio enthält Notizen und Fortschritte, während das Nachweis-Portfolio Beweise für erlernte Skills sammelt.
 
 **Was ist ein Beleg und wozu wird er verwendet?**
+
 Ein Beleg ist ein Nachweis, dass du eine Aufgabe erledigt hast.
 
 **Wann ist ein Nachweis abgenommen?**
+
 Ein Nachweis ist abgenommen, wenn dein Berufsbildner oder Lehrer ihn akzeptiert.
 
 **Welche Regeln gelten im Schulzimmer?**
+
 Im Schulzimmer gelten Regeln wie Pünktlichkeit, Respekt, kein Handy und vorbereitet sein.
 
 ### Tag 2 (28.02.2025)
