@@ -1,11 +1,15 @@
 # Modul 319
+
 ## Lernportfolio Donart Aslani
 
 ### Tag 1 (21.02.2025)
+
 Heute haben wir in der ersten Lektion Informationen über den Ablauf des Moduls kennengelernt. Zudem haben wir uns mit der Website Miro befasst, mit der wir die Aufgaben erledigen können. Anschliessend haben wir mit Niveau 0 begonnen, wobei wir Fragen über SOI (Systematische Orientierung und Information) beantworten mussten.
 
 #### Aufgaben
+
 ##### Aufgabe SOL
+
 **Was ist ein Tandem?**
 
 Ein Tandem ist eine Gruppe.
@@ -31,8 +35,11 @@ Ein Nachweis ist abgenommen, wenn dein Berufsbildner oder Lehrer ihn akzeptiert.
 Im Schulzimmer gelten Regeln wie Pünktlichkeit, Respekt, kein Handy und vorbereitet sein.
 
 ### Tag 2 (28.02.2025)
+
 #### Aufgaben
+
 ##### Aufgabe GitLab
+
 **Was macht ein Versionskontrollsystem?**
 
 Das Versionskontrollsystem verwendet Werkzeuge, um Änderungen oder Bearbeitungen zu verfolgen, die im Laufe der Zeit am Quellcode vorgenommen wurden.
@@ -52,8 +59,48 @@ Ein Git-Account (z. B. auf GitHub, GitLab) verwaltet Repositories, die alle Vers
 ![Bild konzept GitLAb](images/Git%20konzept.png)
 
 **Zwei Möglichkeiten, GIT-Kommandos auszuführen?**
+
+Kommandozeile oder GUI-Tools verwenden.
+
 **Bedienung und Funktionsweise von GitHUB-Desktop**
+
+Ein Repository zeigt alte Versionen (History) und aktuelle Änderungen (Changes). Änderungen werden farblich markiert (rot = gelöscht/ersetzt, grün = neu) und können zur Stage hinzugefügt werden. Ein Commit speichert sie mit Name und Kommentar. Wichtige Funktionen: Fetch (Daten holen), Push (hochladen). Der Branch sollte „main“ oder „master“ sein.
+
 **Kann Gitlab-Seite auf Englisch anzeigen lassen.**
+
+Google Chrome: Ein Übersetzungs-Prompt erscheint automatisch. Klicke auf "English" oder rechtsklicke und wähle "Translate to English".
+
+Mozilla Firefox: Installiere eine Übersetzungs-Erweiterung wie "To Google Translate", gehe zur Seite und nutze die Erweiterung, um zu übersetzen.
+
+Microsoft Edge: Der Übersetzungs-Prompt erscheint automatisch. Klicke auf "Translate" oder rechtsklicke und wähle "Translate to English".
+Safari (macOS): Klicke auf den "Translate"-Button in der Adressleiste und wähle Englisch.
+
+##### Aufgabe Java IDE
+
+**Wozu wird eine IDE verwendet?**
+
+Eine IDE ist eine Entwicklungsumgebung zum Schreiben, Testen und Debuggen von Code.
+
+**Welches ist die neueste Version der Java JDK?**
+
+JDK 23 (2024) ist aktuell, die neueste LTS-Version ist JDK 21 (2023).
+
+**Die JDK besteht aus einigen Programmen. Nenne die zwei wichtigsten Programme, um ein eigenes Programm entwickeln zu können.**
+
+javac: Compiler, der Quellcode in Bytecode umwandelt.
+java: Führt den Bytecode aus.
+
+**Auf welchen Plattformen läuft JAVA?**
+
+Java läuft auf Windows, macOS, Linux und anderen Systemen mit einer JVM.
+
+**Erstes Programm in JAVA zum Laufen gebracht. (→ Einführung in das IDEA-Tutorial: "Hello IDEA" Min 2.00)**
+
+Du hast ein einfaches "test_java"-Programm in Java ausgeführt.
+
+**Nur für APIs und Profis: Mein erstes JAVA Programm (Projekt) in mein Git-Repo (Server) hochgeladen.**
+
+Du hast dein erstes Java-Projekt in ein Git-Repository auf einem Server hochgeladen.
 
 ### Tag 3 (07.03.2025)
 
