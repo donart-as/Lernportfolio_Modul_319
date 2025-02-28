@@ -36,6 +36,12 @@ Im Schulzimmer gelten Regeln wie Pünktlichkeit, Respekt, kein Handy und vorbere
 
 ### Tag 2 (28.02.2025)
 
+Heute habe ich mich mit GitLab und Versionskontrolle beschäftigt. Ich verstehe jetzt besser, wie man Änderungen speichert, verwaltet und wiederherstellen kann. Besonders spannend fand ich GitHub Desktop, weil man dort die Änderungen farblich markiert sieht und alles übersichtlich bleibt.
+
+In Java habe ich mein erstes kleines Programm in IntelliJ IDEA ausgeführt. Außerdem habe ich gelernt, dass der Java-Compiler (javac) den Code in Bytecode umwandelt und die JVM (java) ihn dann ausführt. Am Ende habe ich mein Java-Projekt ins Git-Repo hochgeladen – das fühlte sich ziemlich professionell an!
+
+Insgesamt ein produktiver Tag, und ich merke, dass ich langsam den Durchblick bekomme.
+
 #### Aufgaben
 
 ##### Aufgabe GitLab
