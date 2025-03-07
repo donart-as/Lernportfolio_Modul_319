@@ -62,7 +62,7 @@ Man braucht einen GitLab Konto, ein Code Editor und Gitbash um den SSH Link auf 
 
 Ein Git-Account (z. B. auf GitHub, GitLab) verwaltet Repositories, die alle Versionen einer Datensammlung enthalten. Ein lokales Tool ermöglicht die Verwaltung dieser Repositories, indem Kopien vom Server (remote) auf den Rechner geladen werden („Fetch Origin“). Änderungen werden zunächst in einem Zwischenspeicher (Stage) markiert und dann ins lokale Repository übernommen. Anschließend kann das lokale Repository zur gemeinsamen Nutzung wieder auf den Server hochgeladen werden.
 
-![Bild konzept GitLAb](images/Git%20konzept.png)
+![GIT](images/Git%20konzept.png)
 
 **Zwei Möglichkeiten, GIT-Kommandos auszuführen?**
 
@@ -109,6 +109,71 @@ Du hast ein einfaches "test_java"-Programm in Java ausgeführt.
 Du hast dein erstes Java-Projekt in ein Git-Repository auf einem Server hochgeladen.
 
 ### Tag 3 (07.03.2025)
+
+Heute habe ich mich mit den grundlegenden Konzepten der Programmierung beschäftigt. Ich habe gelernt, dass Variablen als Behälter für Werte dienen und Konstanten einmal festgelegte Werte beibehalten. Die Deklarierung definiert eine Variable, die Initialisierung weist ihr einen Wert zu, und die Verwendung nutzt die Variable im Code.
+
+Der Gültigkeitsbereich (Scope) hängt von der Position der Deklarierung ab: Globale Variablen sind in der gesamten Klasse sichtbar, lokale Variablen nur in ihrer Methode oder ihrem Block. Eine globale Variable wird überdeckt, wenn eine lokale Variable denselben Namen hat und innerhalb ihrer Methode oder ihres Blocks Vorrang hat.
+
+Insgesamt war es ein lehrreicher Tag, der meine Grundlagen in der Programmierung gestärkt hat.
+
+#### Aufgabe JAVA Basics
+
+**Sie kennen den Weg vom Quelltext zum Output in der JAVA-Welt.**
+
+Ein Quellcode wird grundsätzlich entweder kompiliert" oder interpretiert:
+
+Zuerst wird es in der Entwicklungszeit das Programm entwickelt. Danach wird der Gesamte Code bei der Laufzeit ausgeführt.
+
+**Sie kennen die (drei) grundsätzlichen Konzepte der Programmerstellung (Übersetzung).**
+
+Kompilierung – Übersetzung des gesamten Codes vor der Ausführung.
+Interpretation – Zeilenweise Ausführung ohne vorherige vollständige Übersetzung.
+Hybrid-Ansatz – Mischung aus Kompilierung und Interpretation.
+
+**Was ist ein "Ausdruck", ein "Literal", ein "Operator" und ein "Bezeichner".**
+
+Ausdruck – Eine Kombination aus Variablen, Literalen und Operatoren, die zu einem Wert ausgewertet wird.
+Literal – Ein fester Wert direkt im Code (z. B. Zahlen, Zeichenketten).
+Operator – Ein Symbol, das eine Operation auf Operanden ausführt (z. B. +, -, *).
+Bezeichner – Der Name einer Variablen, Methode oder Klasse im Code.
+
+**Kenne den strukturellen Aufbau eines JAVA Programms.**
+
+![GIT](images/Struktur_einfach.jpg)
+
+**Ein Projekt in der IDE mit "TBZ Template" eröffnet und ausgeführt.**
+
+![Bild konzept GitLAb](images/Bild_Code_laden.png)
+
+Bildbeschreibung: Hier wird der Code ausgeführt.
+
+**Kann ein einfaches Programm nachvollziehen.**
+
+Ein einfaches Prgramm kann durch lesen, Verstehen und Testen des Codes nachvollzogen werden.
+
+**Kann mit eingegebenen Zahlen einfache Berechnungen kalkulieren.**
+
+![GIT](images/Ausführung.png)
+
+Bildbeschreibung: Sobald man dies Ausgeführt hat, kann man den Output sehen.
+
+#### Aufgabe Variables_Constant
+
+**Konzept der Variabeln (Konstanten) ist bekannt.  >> Behälter mit Name, Datentyp, Grösse und (fixem) Inhalt.**
+
+![GIT](images/Screenshot_tabelle_variabeln.png)
+
+**Erkenne Deklarierung, Initialisierung und Verwendung von Variablen (Konstanten).**
+
+Die Deklaration einer Variable bedeutet, dass ihr Name und ihr Datentyp festgelegt werden, jedoch noch kein Wert zugewiesen wird. Erst bei der Initialisierung erhält die Variable ihren ersten Wert, wodurch der entsprechende Speicherplatz belegt wird. Eine Variable kann anschließend in verschiedenen Bereichen des Codes verwendet werden, beispielsweise in Berechnungen, Methoden oder zur Ausgabe von Werten.
+
+**Kann den Gültigkeitbereich "setzen". (Position der Deklarierung im Code!).**
+
+Der Gültigkeitsbereich (Scope) einer Variable hängt von ihrer Deklaration ab. Globale Variablen gelten in der ganzen Klasse, lokale Variablen nur innerhalb einer Methode, und Block-Variablen nur in ihrem {}-Block (z. B. Schleifen, If-Statements).
+
+**Wann wird eine "globale" Variable übderdeckt?**
+
+Eine globale Variable wird überdeckt, wenn innerhalb einer Methode oder eines Blocks eine lokale Variable mit demselben Namen deklariert wird. In diesem Fall hat die lokale Variable Vorrang, und die globale Variable ist innerhalb dieses Bereichs nicht direkt zugänglich. Sie kann jedoch mit this. (bei Instanzvariablen) oder dem Klassennamen (bei statischen Variablen) explizit angesprochen werden.
 
 ### Tag 4 (14.03.2025)
 
