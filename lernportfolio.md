@@ -177,6 +177,8 @@ Eine globale Variable wird überdeckt, wenn innerhalb einer Methode oder eines B
 
 ### Tag 4 (14.03.2025)
 
+Heute hatten wir zuerst die D1 Prüfung gemacht, wobei unser Team 6 bestanden hatte. Als nächstes hatten wir uns mit der Teamarbeit einer Rechenaufgabe befasst, was für mich persönlich am Anfang nicht leicht war. Doch gegen Ende hatte ich es im griff und konnte ein selbstgemachtes Skript bilden.
+
 ### Tag 5 (21.03.2025)
 
 ### Tag 6 (28.03.2025)
