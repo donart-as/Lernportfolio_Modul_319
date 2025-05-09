@@ -180,9 +180,16 @@ Eine globale Variable wird überdeckt, wenn innerhalb einer Methode oder eines B
 Heute hatten wir zuerst die D1 Prüfung gemacht, wobei unser Team 6 bestanden hatte. Als nächstes hatten wir uns mit der Teamarbeit einer Rechenaufgabe befasst, was für mich persönlich am Anfang nicht leicht war. Doch gegen Ende hatte ich es im griff und konnte ein selbstgemachtes Skript bilden.
 
 ### Tag 5 (21.03.2025)
-
+war leider krank
 ### Tag 6 (28.03.2025)
 Heute hatte ich mich mit der Aufgabe I3 und E3 befasst, wobei ich bei manchen Aufgaben gut nachdenken musste, um auch ein verständliches code zu erschaffen. Dazu musste ich zuerst Ideen sammeln um etwas zu erstellen. Ich persönlich entwickelte ein Hangman Spiel das sich um ein Wörterspiel handelte, wobei man einen Wort herausfinden muss bevor man den Hangman bekommt. Danach hatte ich zuerst die E2 Prüfung absolviert die nicht sehr schwer war. Zum Schluss konnte ich noch E3 machen, indem ich und mein Kamerade Herr Belk den Vertrag gegenseitig ausfüllten.
 
-Vollständige Code: ![Hangman](HangmanGame.java)
 ### Tag 7 (04.04.2025)
+Heute hatten wir alles abgeschlossen
+
+Aufgaben: ![I3_D4](Aufgabe_I3_D4.zip)
+
+![A4](./images/A4.png)
+![E3](Review_Donart_m319_E3.pdf)
+![E3](Review_Donart_m319_E3.pdf)
+![E3](Aufgabe_E4.zip)
