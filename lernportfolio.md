@@ -191,5 +191,4 @@ Aufgaben: ![I3_D4](Aufgabe_I3_D4.zip)
 
 ![A4](./images/A4.png)
 ![E3](Review_Donart_m319_E3.pdf)
-![E3](Review_Donart_m319_E3.pdf)
-![E3](Aufgabe_E4.zip)
+![E4](Aufgabe_E4.zip)
